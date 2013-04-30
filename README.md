@@ -1,7 +1,4 @@
 SSVideoPlayer
 =============
-to install the screensaver, just copy all files(and folders) to:
-  - x32 -> "c:\Windows\System32\"
-  - x64 -> "c:\Windows\SysWOW64", if this does not work, you must copy to the "c:\Windows\System32\"
-
-contacts: muhasjo@gmail.com
+This is screensaver for windows. Just take the path to video file and screensaver was play this video. 
+Make for the shop's.
